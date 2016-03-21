@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/laba2-1/2/kotlin-runtime.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/laba2-1/2/kotlin-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/laba2-1/2/kotlin-runtime-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
